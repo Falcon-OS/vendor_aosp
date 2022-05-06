@@ -26,4 +26,4 @@ ADDITIONAL_SYSTEM_PROPERTIES  += \
     org.elixir.build_date_utc=$(CUSTOM_BUILD_DATE_UTC) \
     org.elixir.build_type=$(CUSTOM_BUILD_TYPE) \
     org.elixir.codename=$(FALCON_CODENAME) \
-    ro.elixir.maintainer=$(Elixir_MAINTAINER)
+    ro.elixir.maintainer=$(FALCON_MAINTAINER)
